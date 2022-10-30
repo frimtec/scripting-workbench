@@ -50,6 +50,8 @@
         <java.version>17</java.version>
 
         <commons-codec.version>1.15</commons-codec.version>
+        <groovy.version>4.0.6</groovy.version>
+        <kotlin.version>1.7.20</kotlin.version>
 
         <junit.jupiter.version>5.9.1</junit.jupiter.version>
         <assertj-core.version>3.23.1</assertj-core.version>
@@ -60,7 +62,11 @@
     </properties>
 
     <modules>
+        <module>scripting-workbench-bash</module>
+        <module>scripting-workbench-groovy</module>
         <module>scripting-workbench-java</module>
+        <module>scripting-workbench-kotlin</module>
+        <module>scripting-workbench-powershell</module>
     </modules>
 
     <dependencyManagement>
@@ -69,6 +75,21 @@
                 <groupId>commons-codec</groupId>
                 <artifactId>commons-codec</artifactId>
                 <version>${commons-codec.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.groovy</groupId>
+                <artifactId>groovy</artifactId>
+                <version>${groovy.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.kotlin</groupId>
+                <artifactId>kotlin-stdlib</artifactId>
+                <version>${kotlin.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.jetbrains.kotlin</groupId>
+                <artifactId>kotlin-script-runtime</artifactId>
+                <version>${kotlin.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.junit.jupiter</groupId>

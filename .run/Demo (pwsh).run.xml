@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Demo (pwsh)" type="PowerShellRunType" factoryName="PowerShell" scriptUrl="$PROJECT_DIR$/scripting-workbench-powershell/src/main/powershell/demo.ps1" workingDirectory="$USER_HOME$" executablePath="/usr/bin/pwsh">
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
