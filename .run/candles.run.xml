@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="candles" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+    <module name="scripting-workbench-groovy" />
+    <setting name="path" value="file://$PROJECT_DIR$/scripting-workbench-groovy/src/main/groovy/com/github/frimtec/scriptingworkbench/groovy/candles.groovy" />
+    <setting name="vmparams" value="" />
+    <setting name="params" value="" />
+    <setting name="workDir" value="file://$PROJECT_DIR$/scripting-workbench-groovy/src/main/groovy/com/github/frimtec/scriptingworkbench" />
+    <setting name="debug" value="false" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

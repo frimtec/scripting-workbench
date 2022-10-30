@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Demo (Kotlin-Script)" type="KotlinStandaloneScriptRunConfigurationType">
+    <module name="scripting-workbench" />
+    <shortenClasspath name="NONE" />
+    <option name="filePath" value="$PROJECT_DIR$/scripting-workbench-kotlin/src/main/kotlin/com/github/frimtec/scriptingworkbench/kotlin/Demo-Script.kts" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
