@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="XMasGifts" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="com.github.frimtec.scriptingworkbench.XMasGifts" />
+    <module name="scripting-workbench-java" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.github.frimtec.scriptingworkbench.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
