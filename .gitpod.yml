@@ -3,7 +3,10 @@ image:
 
 tasks:
   - name: Build
-    init: mvn clean install
+    init: |
+      mkdir -p .idea
+      cp etc/.idea/* .idea
+      mvn clean install
 
 jetbrains:
   intellij:
