@@ -55,7 +55,7 @@
 
         <junit.jupiter.version>5.10.0</junit.jupiter.version>
         <assertj-core.version>3.24.2</assertj-core.version>
-        <mockito-core.version>5.5.0</mockito-core.version>
+        <mockito-core.version>5.6.0</mockito-core.version>
 
         <maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
         <maven-surefire-plugin.version>3.1.2</maven-surefire-plugin.version>
