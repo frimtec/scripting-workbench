@@ -57,7 +57,7 @@
         <assertj-core.version>3.24.2</assertj-core.version>
         <mockito-core.version>5.8.0</mockito-core.version>
 
-        <maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.12.1</maven-compiler-plugin.version>
         <maven-surefire-plugin.version>3.2.3</maven-surefire-plugin.version>
         <com.google.zxing.version>3.5.2</com.google.zxing.version>
     </properties>
