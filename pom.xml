@@ -50,7 +50,7 @@
         <java.version>17</java.version>
 
         <commons-codec.version>1.16.1</commons-codec.version>
-        <groovy.version>4.0.19</groovy.version>
+        <groovy.version>4.0.20</groovy.version>
         <kotlin.version>1.9.23</kotlin.version>
 
         <junit.jupiter.version>5.10.2</junit.jupiter.version>
