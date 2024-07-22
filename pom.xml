@@ -49,7 +49,7 @@
 
         <java.version>17</java.version>
 
-        <commons-codec.version>1.17.0</commons-codec.version>
+        <commons-codec.version>1.17.1</commons-codec.version>
         <groovy.version>4.0.22</groovy.version>
         <kotlin.version>2.0.0</kotlin.version>
 
