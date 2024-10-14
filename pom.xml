@@ -51,7 +51,7 @@
 
         <commons-codec.version>1.17.1</commons-codec.version>
         <groovy.version>4.0.23</groovy.version>
-        <kotlin.version>2.0.20</kotlin.version>
+        <kotlin.version>2.0.21</kotlin.version>
 
         <junit.jupiter.version>5.11.2</junit.jupiter.version>
         <assertj-core.version>3.26.3</assertj-core.version>
