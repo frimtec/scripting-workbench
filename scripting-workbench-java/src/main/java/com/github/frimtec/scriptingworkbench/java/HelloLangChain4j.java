@@ -1,11 +1,11 @@
 package com.github.frimtec.scriptingworkbench.java;
 
-import dev.langchain4j.model.chat.ChatLanguageModel;
+import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.model.openai.OpenAiChatModel;
 
 public class HelloLangChain4j {
     public static void main(String[] args) {
-        ChatLanguageModel model = OpenAiChatModel.builder()
+        ChatModel model = OpenAiChatModel.builder()
                 .baseUrl("http://langchain4j.dev/demo/openai/v1")
                 .apiKey("demo")
                 .modelName("gpt-4o-mini")
